@@ -2,19 +2,19 @@
  * +-------------------------------------------------------------------------+
  * |                  === WARNING: GLOBAL GADGET FILE ===                    |
  * |                Changes to this page affect many users.                  |
- * |           Please discuss changes at [[WT:TW]] before editing.           |
+ * |           Please discuss changes at [[WT:CA]] before editing.           |
  * +-------------------------------------------------------------------------+
  *
- * Imported from github [https://github.com/azatoth/twinkle].
+ * Imported from github [https://github.com/KylieStarzz/cayenne].
  * All changes should be made in the repository, otherwise they will be lost.
  *
  * To update this script from github, you must have a local repository set up. Then
- * follow the instructions at [https://github.com/azatoth/twinkle/blob/master/README.md].
+ * follow the instructions at [https://github.com/KylieStarzz/cayenne/blob/master/README.md].
  *
  * ----------
  *
- * This is AzaToth's Twinkle, the popular script sidekick for newbies, admins, and
- * every Wikipedian in between. Visit [[WP:TW]] for more information.
+ * This is KylieStarzz's Cayenne, the popular script sidekick for newbies, admins, and
+ * every Wikipedian in between. Visit [[WP:CA]] for more information.
  */
 
 //<nowiki>
